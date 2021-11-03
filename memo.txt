@@ -1,0 +1,16 @@
+FastAPI入門
+
+公式ドキュメント
+https://fastapi.tiangolo.com/ja/
+
+fastAPI, uvicorn のインストール
+
+swagger UI を自動で作成してくれる
+ドキュメント自動生成機能
+<URL>/docs で見れる
+<URL>/redoc 
+
+#サーバーの起動
+->uvicorn main:app --reload
+
+パスパラメータとクエリパラメータ
